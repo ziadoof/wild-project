@@ -1,1 +1,2 @@
-cette un commentaire, pas le même que Kirby mais elle bien
+
+Le conflit est bien résolu
